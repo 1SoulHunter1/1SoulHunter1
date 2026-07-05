@@ -30,11 +30,31 @@
 
 ```yaml
 role: "Final-Year AI/ML Engineering Student @ P.A. College of Engineering, Mangalore (VTU)"
-current_focus: "Freelance Full-Stack Development + AI/ML product building"
-tech_stack: [Python, Django, FastAPI, React, AWS, Docker, PostgreSQL, MongoDB, Redis, LLMs]
-learning: ["Advanced System Design", "Vector Databases", "LLM Orchestration & Agents", "Prompt Engineering at scale"]
-content_presence: "Campus Mantri @ GeeksforGeeks — community building, tech events & content"
-ask_me_about: ["Retrieval-Augmented Generation & LLM apps", "Multi-agent automation (n8n)", "System design for scalable APIs", "Django/FastAPI backend architecture", "Deepfake detection & multimodal ML"]
+
+tech_stack:
+  - Python
+  - Django
+  - FastAPI
+  - React
+  - AWS
+  - Docker
+  - PostgreSQL
+  - MongoDB
+  - Redis
+  - LLMs
+
+learning:
+  - Advanced System Design
+  - Vector Databases
+  - LLM Orchestration & Agents
+  - Prompt Engineering at scale
+
+ask_me_about:
+  - Retrieval-Augmented Generation & LLM apps
+  - Multi-agent automation (n8n)
+  - System design for scalable APIs
+  - Django/FastAPI backend architecture
+  - Deepfake detection & multimodal ML
 ```
 
 - 🌱 Sharpening skills in **LLM-powered agents, vector search, and distributed system design**.
