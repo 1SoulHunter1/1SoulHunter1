@@ -112,7 +112,7 @@ ask_me_about:
 
 <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=1SoulHunter1&theme=tokyonight&hide_border=true" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=1SoulHunter1&theme=tokyonight&no-frame=true&column=7&margin-w=8&margin-h=8" />
+<img src="https://github-trophies.devomb.com/?username=1SoulHunter1&theme=tokyonight&no-frame=true&column=7&margin-w=8&margin-h=8" />
 
 </div>
 
