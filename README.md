@@ -120,6 +120,14 @@ ask_me_about:
 
 <div align="center">
 
+## 📈 Contribution Graph
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=1SoulHunter1&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+</div>
+<br/>
+<div align="center">
+
 ### 📫 Let's Connect
 
 [![GitHub](https://img.shields.io/badge/GitHub-1SoulHunter1-181717?style=flat-square&logo=github)](https://github.com/1SoulHunter1)
